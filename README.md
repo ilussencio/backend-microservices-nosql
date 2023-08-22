@@ -1,2 +1,2 @@
 # backend-microservices-nosql
-Repositorio para estutdo de backend
+Repositorio para estudo de backend
